@@ -31,3 +31,4 @@
 (setq line-number-mode t)
 (setq column-number-mode t)
 (setq transient-mark-mode t)
+(window-system nil)
